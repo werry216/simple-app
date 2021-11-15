@@ -1,6 +1,6 @@
 # Sviluppare una simple-app
 
-L'idea è rendere possibile creare un'applicazione semplice, ma funzionante.  
+L'idea è rendere possibile creare un'applicazione semplice, ma funzionante... 
 Non sarà un'applicazione che serve per andare sulla luna, ma può iniziare a darti le basi per avviare il tuo business o per realizzare l'applicazione per andare sulla luna :)  
 
 ## UML Diagrams  
